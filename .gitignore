@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+# Raw Olist data / local exports
+*.csv
+*.hyper
