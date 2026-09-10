@@ -1,6 +1,6 @@
 # Olist E-commerce Customer & Revenue Analytics
 
-An end-to-end analytics project using **PostgreSQL, Python, and Tableau** to examine e-commerce revenue, customer behavior, delivery performance, and low-review risk in the Brazilian Olist marketplace dataset.
+An analytics project using **PostgreSQL, Python, and Tableau** to examine e-commerce revenue, customer behavior, delivery performance, and low-review risk in the Brazilian Olist marketplace dataset.
 
 ## Project Overview
 
